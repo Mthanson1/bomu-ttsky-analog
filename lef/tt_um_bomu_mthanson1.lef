@@ -423,14 +423,14 @@ MACRO tt_um_bomu_mthanson1
     USE GROUND ;
     PORT
       LAYER met4 ;
-        RECT 20.000 10.000 21.500 215.000 ;
+        RECT 20.000 10.000 21.500 216.000 ;
     END
   END VGND
   PIN VPWR
     USE POWER ;
     PORT
       LAYER met4 ;
-        RECT 40.000 10.000 41.500 215.000 ;
+        RECT 40.000 10.000 41.500 216.000 ;
     END
   END VPWR
   OBS
